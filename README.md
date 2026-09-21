@@ -8,3 +8,10 @@ to be made features:
 - hosted on git.io
 - ed adds new flash easily
 
+
+to do;
+[] dead simple flutter template
+[] research git pages
+[] research how edd can add shit easily
+[] create example / locally run screenrec or sum and send to edd - get feedback
+
