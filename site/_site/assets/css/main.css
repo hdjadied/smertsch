@@ -2,4 +2,6 @@ body { background: #ffffff; color: #000000; font-family: -apple-system, BlinkMac
 
 h1 { font-size: 2rem; }
 
+img { max-width: 100%; height: auto; align-self: left; }
+
 /*# sourceMappingURL=main.css.map */
