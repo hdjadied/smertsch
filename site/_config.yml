@@ -1,3 +1,3 @@
-url: "https://hdjadied.github.io/smertsch/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hdjadied.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/smertsch" # the subpath of your site, e.g. /blog
 title: "smertsch" # the name of your site, e.g. ACME Corp.
