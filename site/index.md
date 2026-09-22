@@ -8,4 +8,4 @@ contact/link
 
 flash
 
-![This is the image "alt text"]({% link assets/images/flash.png %})
+![This is the image "alt text"]({{ "/assets/images/flash.png" | relative_url }})
